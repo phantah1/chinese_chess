@@ -1,2 +1,2 @@
-# chinese_chess
+# Chinese_chess
  A chinese chess game written in python
