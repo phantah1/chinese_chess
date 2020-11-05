@@ -19,7 +19,7 @@ class Game:
         size = (SCREEN_WIDTH, SCREEN_HEIGHT)
         self.size = size
         self.screen = pg.display.set_mode(size)
-        pg.display.set_caption('Ching-Chong Chess')
+        pg.display.set_caption('Chinese Chess')
 
         # STATE
         self.clock = pg.time.Clock()
